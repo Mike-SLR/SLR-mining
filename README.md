@@ -8,9 +8,6 @@
 
 <h4 align="center">The best mining script available on FiveM.</h4>
 
-<p align="center">
-    <img src="https://img.shields.io/github/stars/iamlation/lation_mining?logo=github">
-    <img src="https://img.shields.io/github/downloads/iamlation/lation_mining/total?logo=github&style=social">
 </p>
 
 <p align="center">
