@@ -18,8 +18,6 @@
     <a href="#more-scripts">More Scripts</a>
 </p>
 
-[![lation 247robbery youtube preview](https://img.lationscripts.com/other/lation-mining-thumbnail.jpg)](https://youtu.be/yy2uLH5mtcs)
-
 ## 🔑 Key Features
 
 * Supports all major FiveM frameworks
@@ -94,11 +92,11 @@ The following resources are **required** in order to setup this resource:
 * **Step 1**
   - Install (*or ensure you have the latest of*) each dependency listed above
 * **Step 2**
-  - Download the latest release of ```lation_mining```
+  - Download the latest release of ```SLR-mining```
 * **Step 3**
   - Extract the zipped folder into your servers main ```resources``` directory
 * **Step 4**
-  - Add ```ensure lation_mining``` in your ```server.cfg``` file *after* all dependencies
+  - Add ```ensure SLR-mining``` in your ```server.cfg``` file *after* all dependencies
 * **Step 5**
   - Add items & images from ```install``` folder into your inventory resource
   - There is no need to execute the ```.sql``` file - *the script will auto-insert*
@@ -109,18 +107,8 @@ The following resources are **required** in order to setup this resource:
 ## ℹ️ Support
 
 If you have any suggestions for new features, discovered a bug or having a problem with the script, feel free to contact us at anytime via:
-* [Discord](https://discord.gg/R7vfaQGg)
+* [Discord][(https://discord.gg/R7vfaQGg)
 
 Or by submitting a new issue on the Github page!
 
-## 👉 More Scripts
-If you've enjoyed (*or are enjoying*) this script, you'd probably really enjoy our other scripts! 
 
-* 🌿 [Advanced Weed Growing](https://lationscripts.com/product/weed-growing?utm_source=github&utm_medium=free-script)
-* ❄️ [Advanced Cocaine](https://lationscripts.com/product/coke-processing?utm_source=github&utm_medium=free-script)
-* 💉 [Advanced Meth Crafting](https://lationscripts.com/product/meth-crafting?utm_source=github&utm_medium=free-script)
-* 🔨 [Advanced Chop Shop](https://lationscripts.com/product/chop-shop?utm_source=github&utm_medium=free-script)
-* 💰 [Advanced Money Laundering](https://lationscripts.com/product/money-wash?utm_source=github&utm_medium=free-script)
-* 🔍 [Advanced Metal Detecting](https://lationscripts.com/product/metal-detecting?utm_source=github&utm_medium=free-script)
-* 🤿 [Advanced Scuba Diving](https://lationscripts.com/product/scuba-diving?utm_source=github&utm_medium=free-script)
-* 💊 [Advanced Drug Sales](https://lationscripts.com/product/drug-selling?utm_source=github&utm_medium=free-script)
